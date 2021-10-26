@@ -1,5 +1,5 @@
 <?php
-namespace Mutahir\Carsdbapi\models;
+namespace Carsdbapi\models;
 
 
 class User extends BaseModel

@@ -2,8 +2,8 @@
 namespace Mutahir\Carsdbapi;
 
 
-use \Mutahir\Carsdbapi\exceptions\EmptyResponseException;
-use \Mutahir\Carsdbapi\exceptions\Exception;
+use \Carsdbapi\exceptions\EmptyResponseException;
+use \Carsdbapi\exceptions\Exception;
 
 
 class BasebuyAutoApi

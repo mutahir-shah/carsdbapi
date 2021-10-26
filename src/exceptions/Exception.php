@@ -1,5 +1,5 @@
 <?php
-namespace Mutahir\Carsdbapi\exceptions;
+namespace Carsdbapi\exceptions;
 
 
 class Exception extends \Exception

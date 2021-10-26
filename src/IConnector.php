@@ -1,5 +1,5 @@
 <?php
-namespace Mutahir\Carsdbapi;
+namespace Carsdbapi;
 
 
 interface IConnector

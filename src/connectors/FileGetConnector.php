@@ -1,8 +1,8 @@
 <?php
-namespace Mutahir\Carsdbapi\connectors;
+namespace Carsdbapi\connectors;
 
 
-use Mutahir\Carsdbapi\IConnector;
+use Carsdbapi\IConnector;
 
 
 class FileGetConnector implements IConnector

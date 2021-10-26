@@ -1,6 +1,6 @@
 <?php
 
-namespace Mutahir\Carsdbapi\connectors;
+namespace Carsdbapi\connectors;
 
 
 class Curl

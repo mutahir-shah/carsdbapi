@@ -1,5 +1,5 @@
 <?php
-namespace Mutahir\Carsdbapi\exceptions;
+namespace Carsdbapi\exceptions;
 
 
 class EmptyResponseException extends Exception

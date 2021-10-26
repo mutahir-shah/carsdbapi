@@ -2,15 +2,22 @@
     "name": "mutahir-shah/carsdbapi",
     "description": "Cars Db is a Laravel SDK for pulling make models etc",
     "license": "MIT",
+    "type": "library",
+    "keywords": ["make","model","generations","laravel","laravel cars database api","Cars databases"],
     "authors": [
         {
             "name": "Mutahir Shah",
             "email": "mutahiricup@gmail.com"
+        },
+        {
+            "name": "Mutahir Shah",
+            "link": "https://github.com/mutahir-shah"
         }
     ],
+    "homepage":"https://github.com/mutahir-shah/carsdbapi/",
     "minimum-stability": "dev", "autoload": {
         "psr-4": {
-            "Mutahir\\Carsdbapi\\": "src/"
+            "Carsdbapi": "src/"
         }
     },
     "require": {}
