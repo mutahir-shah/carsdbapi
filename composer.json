@@ -8,14 +8,11 @@
         {
             "name": "Mutahir Shah",
             "email": "mutahiricup@gmail.com"
-        },
-        {
-            "name": "Mutahir Shah",
-            "link": "https://github.com/mutahir-shah"
         }
     ],
     "homepage":"https://github.com/mutahir-shah/carsdbapi/",
-    "minimum-stability": "dev", "autoload": {
+    "minimum-stability": "dev", 
+    "autoload": {
         "psr-4": {
             "Carsdbapi": "src/"
         }
